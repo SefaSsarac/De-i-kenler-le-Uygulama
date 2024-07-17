@@ -1,0 +1,14 @@
+C:\Users\ysefa\source\repos\Değişkenler İle Uygulama\Değişkenler İle Uygulama\obj\Debug\net8.0\Değişkenler İle Uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ysefa\source\repos\Değişkenler İle Uygulama\Değişkenler İle Uygulama\obj\Debug\net8.0\Değişkenler İle Uygulama.AssemblyInfoInputs.cache
+C:\Users\ysefa\source\repos\Değişkenler İle Uygulama\Değişkenler İle Uygulama\obj\Debug\net8.0\Değişkenler İle Uygulama.AssemblyInfo.cs
+C:\Users\ysefa\source\repos\Değişkenler İle Uygulama\Değişkenler İle Uygulama\obj\Debug\net8.0\Değişkenler İle Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\ysefa\source\repos\Değişkenler İle Uygulama\Değişkenler İle Uygulama\bin\Debug\net8.0\Değişkenler İle Uygulama.exe
+C:\Users\ysefa\source\repos\Değişkenler İle Uygulama\Değişkenler İle Uygulama\bin\Debug\net8.0\Değişkenler İle Uygulama.deps.json
+C:\Users\ysefa\source\repos\Değişkenler İle Uygulama\Değişkenler İle Uygulama\bin\Debug\net8.0\Değişkenler İle Uygulama.runtimeconfig.json
+C:\Users\ysefa\source\repos\Değişkenler İle Uygulama\Değişkenler İle Uygulama\bin\Debug\net8.0\Değişkenler İle Uygulama.dll
+C:\Users\ysefa\source\repos\Değişkenler İle Uygulama\Değişkenler İle Uygulama\bin\Debug\net8.0\Değişkenler İle Uygulama.pdb
+C:\Users\ysefa\source\repos\Değişkenler İle Uygulama\Değişkenler İle Uygulama\obj\Debug\net8.0\Değişkenler İle Uygulama.dll
+C:\Users\ysefa\source\repos\Değişkenler İle Uygulama\Değişkenler İle Uygulama\obj\Debug\net8.0\refint\Değişkenler İle Uygulama.dll
+C:\Users\ysefa\source\repos\Değişkenler İle Uygulama\Değişkenler İle Uygulama\obj\Debug\net8.0\Değişkenler İle Uygulama.pdb
+C:\Users\ysefa\source\repos\Değişkenler İle Uygulama\Değişkenler İle Uygulama\obj\Debug\net8.0\Değişkenler İle Uygulama.genruntimeconfig.cache
+C:\Users\ysefa\source\repos\Değişkenler İle Uygulama\Değişkenler İle Uygulama\obj\Debug\net8.0\ref\Değişkenler İle Uygulama.dll
